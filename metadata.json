@@ -1,0 +1,6 @@
+{
+  "name": "GlassFit",
+  "description": "Custom workouts, calorie scanner, and progress dashboard with beautiful Frosted Glass design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

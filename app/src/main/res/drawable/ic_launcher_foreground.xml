@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Container (Brushed silver/white outline) -->
+    <path
+        android:pathData="M 54,20 C 66,20 78,25 86,30 C 86,52 74,74 54,88 C 34,74 22,52 22,30 C 30,25 42,20 54,20 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#1AFFFFFF" />
+
+    <!-- Dumbbell Bar -->
+    <path
+        android:pathData="M 34,54 L 74,54"
+        android:strokeColor="#10B981"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+
+    <!-- Inner Plates Left -->
+    <path
+        android:pathData="M 40,40 L 46,40 L 46,68 L 40,68 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Inner Plates Right -->
+    <path
+        android:pathData="M 62,40 L 68,40 L 68,68 L 62,68 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Outer Plates Left -->
+    <path
+        android:pathData="M 32,44 L 38,44 L 38,64 L 32,64 Z"
+        android:fillColor="#EF4444" />
+
+    <!-- Outer Plates Right -->
+    <path
+        android:pathData="M 70,44 L 76,44 L 76,64 L 70,64 Z"
+        android:fillColor="#EF4444" />
+</vector>
